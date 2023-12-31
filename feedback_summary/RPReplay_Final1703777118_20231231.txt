@@ -1,0 +1,6 @@
+Glitches in conversation examples (Issue)
+In the quiz, words that weren't used in the conversation are asked (Issue)
+Quiz focuses only on the last sentence or a couple of sentences instead of all the conversation (Issue)
+Ability to look back at previous work needed (Suggestion)
+Glossary of vocabulary and verb structures would be helpful (Suggestion)
+Ability to highlight and section out vocabulary to concentrate on learning (Suggestion)
