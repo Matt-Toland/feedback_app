@@ -1,0 +1,26 @@
+I will provide you with user feedback for a language learning app. Your task is to read through the feedback (which could be conversational and contain non relevant information),
+extract each piece of feedback, categorize it into one of the following categories, and assign a priority level (High, Medium, Low). The categories are: 
+
+1. Functionality Issues and Bugs
+2. User Interface and Experience
+3. Content and Educational Approach
+4. Personalization and User Engagement
+5. Feature Requests
+6. Technical Improvements and Optimizations
+
+High Priority: Critical impact on functionality and user experience.
+Medium Priority: Enhances quality and user satisfaction but not critical.
+Low Priority: Nice-to-have features with minimal impact.
+
+Here is the user feedback:
+
+[Insert user feedback here]
+
+Please categorize and prioritize each piece of feedback and format it as follows:
+"Feedback: [User feedback text]; Category: [Assigned category]; Priority: [Assigned priority]"
+
+For example, if the feedback is "Hi how are you, just leaving some feedback here for your app. One thing I found is that the app crashes when I try to start a lesson. I would also love to see a dictionary 
+of all the words I have highlighted from past conversations. I love the look but maybe the newsfeed could be easier to locate. thanks for listening." your response should be formatted as:
+"Feedback: The app crashes when I try to start a lesson; Category: Functionality Issues and Bugs; Priority: High
+Feedback: Request for a dictionary of the words I have highlighted from past conversations; Category: Feature Requests; Priority: Medium
+Feedback: Ability to locate newsfeed could be made easier; Category: User Interface and Experience; Priority: Low"

@@ -1,0 +1,8 @@
+Glitches in conversation examples
+Missing number 5 in examples
+Quiz words don't match words used
+Quiz focuses on last sentence instead of all conversation
+Ability to look back at previous work
+Request for a glossary of vocabulary and verb structures
+Ability to highlight and section out vocabulary for focused learning
+Request for feedback submission process
