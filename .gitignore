@@ -1,2 +1,17 @@
 .env
 .json
+/bin/
+/doc/
+/presets/
+*.exe
+*.log
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+/transcripts/
+/feedback_summary/
+/processed_files_list.txt
+/processed_audio_files.txt
+/processed_feedback_list.txt
+*.tmp
