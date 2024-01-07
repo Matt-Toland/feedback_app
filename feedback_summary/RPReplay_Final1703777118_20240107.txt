@@ -1,6 +1,0 @@
-Feedback: Glitches in conversation where number 5 is missing in examples; Category: Functionality Issues and Bugs; Priority: High
-Feedback: Quiz words not necessarily used in conversation; Category: Content and Educational Approach; Priority: Medium
-Feedback: Quiz focusing on last sentence rather than all conversation; Category: Content and Educational Approach; Priority: Medium
-Feedback: Ability to look back at work and find information easily; Category: User Interface and Experience; Priority: High
-Feedback: Request for a glossary of vocabulary covered in conversations; Category: Content and Educational Approach; Priority: Medium
-Feedback: Ability to highlight and save words as vocabulary for learning; Category: Personalization and User Engagement; Priority: Low
