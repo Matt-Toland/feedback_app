@@ -11,8 +11,8 @@
 *.sublime-project
 /transcripts/
 /feedback_summary/
-/processed_files_list.txt
+/processed_files.txt
 /processed_audio_files.txt
-/processed_feedback_list.txt
+/processed_feedback_files.txt
 *.tmp
 ffmpeg-2024-01-04-git-33698ef891-essentials_build/bin/
